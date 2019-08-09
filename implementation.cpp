@@ -1,6 +1,4 @@
 //Joe Leland
-//CS202
-//Assignment #1
 //This file contains all of the functions defined in header.h
 #include "header.h"
 

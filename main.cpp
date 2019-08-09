@@ -1,6 +1,4 @@
 //Joe Leland
-//CS202
-//Assignment #1
 //This file takes input from the user in the form of temperature, initial weather condition, and departure time. It then creates the journey object with those args
 #include "header.h"
 using namespace std;
